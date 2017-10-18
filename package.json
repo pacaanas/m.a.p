@@ -1,0 +1,18 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mharc Pacaanas",
+  "license": "ISC",
+  "dependencies": {
+    "background-video": "^2.0.1",
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "materialize-css": "^0.100.2"
+  }
+}
